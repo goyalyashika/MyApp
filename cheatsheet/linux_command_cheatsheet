@@ -1,0 +1,327 @@
+    1  git init
+    2  git config
+    3       git--global user.name"goyalyashika"
+    4       git--global--global user.email"yashika1877.be21@chitkara.edu.in"
+    5  $ 1s
+    6  1s
+    7  git init
+    8  ls
+    9  ls
+   10  git congif
+   11  git config --gloabal user.name "goyalyashika"
+   12  git config --gloabal user.email "yashika1877.be21@chitkara.edu.in"
+   13  git config --global user.name "goyalyashika"
+   14  git config --global user.email "yashika1877.be21@chitkara.edu.in"
+   15  touch SCM.txt
+   16   ls
+   17  ls
+   18  notepad scm.txt
+   19  git commit
+   20  git add SCM.txt
+   21  git status
+   22  git commit-m "my first file"
+   23  git status
+   24  git init
+   25  git lob
+   26  git lock
+   27  git commit
+   28  git commit -m "my first file"
+   29  cat>files
+   30  cat>files
+   31  ls
+   32  ls
+   33  ls
+   34  ij
+   35  ih
+   36  ih
+   37  yg
+   38  th
+   39  bh
+   40  ub
+   41  uh
+   42  ls
+   43  pwd
+   44  ls
+   45  touch 
+   46  touch --help
+   47  gitblock
+   48  gitblock
+   49  git branch
+   50  git checkout master
+   51  git branch activity 1
+   52  gitblock
+   53  git commit--"hello"
+   54  git commit -m "Hello"
+   55  git branch
+   56  git branch activity 1
+   57  git lock
+   58  git init
+   59  gitlock
+   60  mkdir folder
+   61  hidden
+   62  ls -a
+   63  ls -l
+   64  sudo su
+   65  git branch
+   66  git branch g21
+   67  ls
+   68  git checkout g21
+   69  git branch
+   70  ls
+   71  touch g21.txt
+   72  touch g21scm.txt
+   73  cat>g21scm.txt
+   74  git add g21scm.txt
+   75  git commit--m "first commit in branch g21"
+   76  git checkout master branch'
+   77  git checkout master
+   78  git merge g21
+   79  git branch g21
+   80  ls
+   81  git checkout g21
+   82  git branch
+   83  touch g21.txt
+   84  cat-g21 scm.txt
+   85  cat-g21scm.txt
+   86  cat>g21scmtxt
+   87  git checkout master
+   88  ls
+   89  git checkout
+   90  git merge g21
+   91  git log 
+   92  git log
+   93  git log
+   94  git init
+   95  git config --global user.name "goyalyashika"
+   96  git config --global user.email "yashika1877.be21@chitkara.edu.in"
+   97  mkdir project1
+   98  ls
+   99  touch file1
+  100  ls
+  101  git status
+  102  git add file1
+  103  git status
+  104  git commit -m "My first file"
+  105  git status
+  106  git log
+  107  git branch
+  108  git branch activity1
+  109  git checkout activity1
+  110  git branch
+  111  git checkout master
+  112  git branch
+  113  git status
+  114  git remote add origin [200~https://github.com/goyalyashika/SCM-.git~
+  115  git push -u origin master
+  116  git remote add origin https://github.com/goyalyashika/Scm_Project.git
+  117  git remote add origin https://github.com/goyalyashika/SCM-.git
+  118  git remote add origin1 https://github.com/goyalyashika/Scm_Project.git
+  119  git push -u origin1 master
+  120  git branch copy
+  121  git branch copy
+  122  git status
+  123  git log
+  124  git log
+  125  git log -p -1
+  126  git dif
+  127  git diff
+  128  git checkout test.html
+  129  git diff
+  130  git diff
+  131  git log
+  132  git log -p -1
+  133  git dif
+  134  git diff
+  135  git branch copy
+  136  git branch
+  137  i
+  138  content-content-content
+  139  vi file1
+  140  echo "yashika goyal" file2
+  141  echo "file created using echo command" >file 3
+  142  chmod 
+  143  chmod --help
+  144  less
+  145  echo "hello world" file4
+  146  less
+  147  less --help
+  148  vi file1
+  149  git status
+  150  git commit
+  151  git log
+  152  git remote add file https://github.com/goyalyashika/S_C_M.git
+  153  git push master
+  154  git push -u origin master
+  155  git log  https://github.com/goyalyashika/S_C_M.git G21
+  156  git remote
+  157  git  -v
+  158  touch.gitignore
+  159  touch  .gitignore
+  160  ls
+  161  ls  -ah
+  162  cat>>sum.py
+  163  git status
+  164  git add
+  165  git commit -m"before ignoring python files"
+  166  git status
+  167  cat>>.gitignore
+  168  git remote
+  169  git  -v
+  170  touch  .gitignore
+  171  ls
+  172  ls  -ah
+  173  cat>>sum.py
+  174  git status
+  175  git add
+  176  git commit -m "before ignoring python files"
+  177  git status
+  178  cat>>.gitignore
+  179  touch add.py
+  180  touch object.txt
+  181  git status
+  182  git add
+  183  git commit  -m"after ignoring python files"
+  184  git status
+  185  cat>>.gitignore
+  186  git status
+  187  git branch
+  188  git branch SCM
+  189  git branch
+  190  git checkout
+  191  git checkout SCM
+  192  git branch
+  193  git branch SCM
+  194  git branch
+  195  git branch                                                                                                                                       SCM
+  196  git branch
+  197  git branch SCM
+  198  git checkout SCM
+  199  useradd aru
+  200  $ useradd aru
+  201  useradd:Permission denied.
+  202  useradd:cannotlock /etc/password; try again later
+  203  git add -i
+  204  git add-i
+  205  git add - i
+  206  ***Commands***
+  207  git add -i
+  208  git add - i
+  209  git add -i
+  210  mkdir SCM@#
+  211  git add.
+  212  git commit 
+  213  mkdir SCM@#
+  214  cd
+  215  git init
+  216  touch merge txt
+  217  cat>>merge txt
+  218  first commit in new branch
+  219  git add
+  220  git add.
+  221  git commit -m "first commit in New branch"
+  222  git checkout main master
+  223  cat>>merge txt
+  224  text written before merge
+  225  git commit -am "commit before merge"
+  226  SCM@#
+  227  git merge branchtoMerge 
+  228  cat merge txt
+  229  touch test.txt
+  230  cd SCM
+  231  clear
+  232  mkdir 
+  233  mkdir SCM
+  234  cd SCM
+  235  cat>>test.txt
+  236  git add test.txt
+  237  git commit -m "1st commit"
+  238  cat>>text.txt
+  239  git status
+  240  cat 
+  241  cat>>test.txt
+  242  cat>>test.txt
+  243  git add test.txt
+  244  git commit -m "1st commit"
+  245  clear
+  246  cat>>test.txt
+  247  git add test.txt
+  248  clear
+  249  touch test.txt
+  250  cat>>test.txt
+  251  git add test.txt
+  252  git log
+  253  git remote add origin https://github.com/goyalyashika/S_C_M.git
+  254  git remote
+  255  npm install -- save radium
+  256  git init
+  257  git remote add https://github.com/goyalyashika/S_C_M.git
+  258  git remote -v
+  259  clear
+  260  git pull https://github.com/goyalyashika/S_C_M.git
+  261  git log
+  262  clear
+  263  git checkout -b Feature-1
+  264  git status
+  265  clear
+  266  git add -A
+  267  git commit -m"changes have been made on Feature-1 branch"
+  268  git log
+  269  clear
+  270  git checkout
+  271  notepad myfile
+  272  git add -a
+  273  git add A
+  274  git commit -m "commit for solving merge(master)"
+  275  clear
+  276  git checkout feature-1
+  277  git commit -m "changes made in feature-1 branch"
+  278  clear
+  279  git log
+  280  pwd
+  281  ls -a
+  282  cd oe
+  283  pwd
+  284  cd OneDrive/
+  285  pwd
+  286  cd desktop
+  287  cd desktop.ini 
+  288  cd desktop.ini 
+  289  cd Desktop
+  290  pwd
+  291  mkdir BL_JAVA_WORKSPACE
+  292  ls
+  293  cd BL_JAVA_WORKSPACE
+  294  mkdir basic_linux_git_commands
+  295  ls
+  296  pwd 
+  297  ls
+  298  cd Des
+  299  cd des
+  300  cd desktop
+  301  cd Desktop/
+  302  cd OneDrive/
+  303  mkdir BL_JAVA_WORKSPACE
+  304  ls
+  305  cd ..
+  306  cd BL
+  307  cd BL_JAVA_WORKSPACE
+  308  cd BL_JAVA_WORKSPACE/
+  309  mkdir BL_JAVA_WORKSPACE
+  310  cd BL_JAVA_WORKSPACE
+  311  mkdir JAVA_PROGRAMME
+  312  touch abc
+  313  ls
+  314  cp abc JAVA_PROGRAMME/
+  315  rm abc
+  316  ls
+  317  pwd
+  318  ls
+  319  mv abc JAVA_PROGRAMME
+  320  LS
+  321  ls
+  322  cd JAVA_PROGRAMME
+  323  mkdir basic_linux_git_commands
+  324  ls
+  325  cd basic_linux_git_commands
+  326  history
+  327  history>linux_command_cheatsheet
